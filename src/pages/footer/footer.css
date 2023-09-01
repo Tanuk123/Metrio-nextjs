@@ -1,0 +1,19 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 85%;
+  right: 0;
+  padding: 15px;
+  font-size: 14px;
+  z-index: 999;
+    background-color: #F4F5FA;
+}
+.footer a {
+  color: #9155fd;
+}
+.footer span {
+  color: #9155fd;
+}
+.purpleText {
+  margin-left: 705px;
+}

@@ -1,0 +1,113 @@
+.first-div {
+  margin-left: 278px;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+.first-div h1 {
+  font-weight: 500;
+  font-size: 18px;
+}
+.first-div p {
+  font-weight: 400;
+  color: #3a3541;
+  font-size: 14px;
+}
+.second-div {
+  margin-left: 278px;
+  border-radius: 6px;
+  margin-top: 30px;
+}
+.second-div h1 {
+  font-weight: 500;
+  font-size: 18px;
+}
+.second-div p {
+  font-weight: 400;
+  color: #3a3541;
+  font-size: 14px;
+}
+.grid-first {
+  margin-left: 271px;
+  border-radius: 6px;
+  margin-top: 10px;
+  /* background-color: white; */
+}
+.first_div {
+  height: 110px;
+  border-radius: 6px;
+}
+.main-container {
+  height: fit-content;
+  padding-top: 1rem;
+  margin-left: 160px;
+}
+
+#icons-container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.single-icon-container {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid white;
+  margin-right: -14px;
+}
+.user-para p {
+  color: #3a3541;
+  font-size: 14px;
+  margin-left: 25px;
+  margin-top: 21px;
+}
+.admin {
+  margin-left: 24px;
+  color: #3a3541;
+  font-size: 17px;
+  font-weight: 400;
+}
+.edit-role p {
+  margin-left: 25px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #9155fd;
+}
+.role-button {
+  background-color: #9155fd;
+  color: white;
+  width: 118px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+.gridSecond {
+  background-color: white;
+  width: 81%;
+  margin-left: 271px;
+  border-radius: 6px;
+}
+.dropdown {
+  width: 126px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid #3a3541;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+.invoice-button {
+  background-color: #9155fd;
+  color: white;
+  width: 118px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+.export-button {
+  width: 118px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 14px;
+  border: 1px solid #0000005c;
+  color: #0000005c;
+}

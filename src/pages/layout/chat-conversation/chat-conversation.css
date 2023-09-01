@@ -1,0 +1,17 @@
+.grid-first {
+  margin-left: 263px;
+  border-radius: 6px;
+  margin-top: 80px;
+}
+.conversation button {
+  color: black;
+  font-size: 15px;
+  background-color: white;
+  font-weight: 500;
+  border-radius: 20px;
+  width: 180px;
+  height: 42px;
+}
+.second-section {
+  background-color: #f9f8f9;
+}

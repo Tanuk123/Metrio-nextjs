@@ -1,0 +1,17 @@
+.absolute-box {
+  margin-top: -381px;
+  margin-left: 153px;
+  margin-left: 221px;
+  width: 700px;
+}
+.send-button button {
+  background-color: #8141f3de;
+  color: white;
+  width: 75px;
+  border-radius: 5px 0px 0px 5px;
+}
+.header-mail{
+    background-color: #EFEFF0;
+    height: 33px;
+    margin-bottom: -12px;
+}

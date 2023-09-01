@@ -1,0 +1,42 @@
+.grid-first {
+  margin-left: 263px;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+.button-red button {
+  color: #ff4c51;
+  background-color: #ffa9ac7a;
+  font-size: 14px;
+  width: 82px;
+  height: 24px;
+  border-radius: 5px;
+  text-align: center;
+}
+.details h1 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #3a3541;
+  margin-left: 27px;
+}
+hr {
+  margin-top: 12px;
+}
+.edit {
+  background-color: #9155fd;
+  color: white;
+  width: 83px;
+  margin-left: 40px;
+  font-size: 14px;
+  border-radius: 5px;
+  height: 32px;
+  margin-top: 9px;
+}
+.suspend {
+  color: #ff4c51;
+  font-size: 14px;
+  margin-left: 18px;
+  border: 1px solid #ff4c51;
+  width: 123px;
+  height: 32px;
+  border-radius: 5px;
+}

@@ -1,0 +1,61 @@
+.grid-first {
+  margin-left: 263px;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+.closeIcon {
+  margin-left: 272px;
+}
+.about h1 {
+  color: #3a3541a2;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.about p {
+  border: 1px solid #3a35414a;
+  font-size: 13px;
+  font-weight: 400;
+  border-radius: 3px;
+  width: 276px;
+  margin-left: 17px;
+  margin-top: 7px;
+  color: #3a354178;
+}
+.status-radio h1 {
+  color: #3a3541;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.status-radio label {
+  color: #3a3541a2;
+}
+input[type="radio"] {
+  accent-color: #1f9d55;
+}
+.setting-section h1 {
+  color: #3a3541a2;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.setting-section span {
+  color: #3a3541a2;
+  /* margin-left: 20px; */
+  font-size: 14px;
+  font-weight: 400;
+}
+.logout-btn button {
+  color: white;
+  background-color: #9155fd;
+  width: 110px;
+  height: 30px;
+  margin-left: 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+.second-section {
+  background-color: #f9f8f9;
+}

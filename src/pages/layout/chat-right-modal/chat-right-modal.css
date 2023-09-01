@@ -1,0 +1,26 @@
+.grid-first {
+    margin-left: 263px;
+    border-radius: 6px;
+    margin-top: 10px;
+  }
+  .closeIcon {
+    margin-left: 272px;
+  }
+  .about-section h1 {
+    color: #3a3541a2;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .about-section p {
+    font-size: 13px;
+    font-weight: 400;
+    border-radius: 3px;
+    width: 276px;
+    margin-left: 20px;
+    margin-top: 7px;
+    color: #3a354178;
+  }
+  .second-section {
+    background-color: #f9f8f9;
+  }

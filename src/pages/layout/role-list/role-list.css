@@ -1,0 +1,15 @@
+.gridSecond {
+  background-color: white;
+  width: 81%;
+  margin-left: 271px;
+  border-radius: 6px;
+  margin-top: 80px;
+}
+.invoice-button {
+  background-color: #9155fd;
+  color: white;
+  width: 118px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 12px;
+}

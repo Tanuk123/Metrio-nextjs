@@ -1,0 +1,129 @@
+.grid-first {
+    margin-left: 271px;
+    border-radius: 6px;
+    margin-top: 80px;
+  }
+  .first_div {
+    height: 110px;
+    border-radius: 6px;
+  }
+  .send {
+    background-color: #9155fd;
+    color: white;
+    margin-top: 2px;
+    width: 214px;
+    margin-left: 27px;
+    border-radius: 5px;
+    height: 42px;
+    font-size: 15px;
+  }
+  .edit {
+    color: #8a8d93;
+    margin-top: 10px;
+    width: 214px;
+    margin-left: 27px;
+    border-radius: 5px;
+    height: 42px;
+    font-size: 15px;
+    border: 1px solid #8a8d93;
+  }
+  .doller {
+    background-color: #56ca00;
+    color: white;
+    margin-top: 10px;
+    width: 214px;
+    margin-left: 27px;
+    border-radius: 5px;
+    height: 42px;
+    font-size: 15px;
+  }
+  .para p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a3541;
+    margin-top: 20px;
+  }
+  .para span {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a3541;
+    margin-top: 20px;
+  }
+  hr {
+    margin-top: 46px;
+  }
+  .bill-para p {
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+  }
+  .bill-address p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a3541;
+  }
+  .bill-no span {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a3541;
+  }
+  
+  .total-div p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a3541;
+  }
+  .last-section {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a3541;
+  }
+  .print-button {
+    background-color: #9155fd;
+    color: white;
+    font-size: 14px;
+    width: 85px;
+    height: 35px;
+    border-radius: 5px;
+  }
+  .download-btn {
+    background-color: #56ca00;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    width: 105px;
+  }
+  .invoice-dropdown {
+    background: transparent;
+    width: 179px;
+    border: 1px solid #0000005e;
+    border-radius: 6px;
+    height: 36px;
+    margin-top: 6px;
+    font-size: 14px;
+  }
+  .design-dropdown {
+    background: transparent;
+    width: 280px;
+    border: 1px solid #0000005e;
+    border-radius: 6px;
+    height: 36px;
+    margin-top: 6px;
+    font-size: 14px;
+  }
+  .add-button {
+    background-color: #9155fd;
+    color: white;
+    width: 118px;
+    height: 40px;
+    border-radius: 6px;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 13px;
+  }
+  .last-section p{
+      border: 1px solid #00000038;
+      border-radius: 6px;
+      font-size: 13px;
+      padding: 8px;
+  }

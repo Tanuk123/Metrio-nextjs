@@ -1,0 +1,61 @@
+.grid-first {
+  margin-left: 263px;
+  border-radius: 6px;
+  margin-top: 80px;
+}
+
+.placeholder-style::placeholder {
+  padding: 35px 35px;
+  margin: 5px;
+}
+.chatText{
+    font-size: 18px;
+    color: #9155FD;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.purple-div{
+    background-color: #9155FD;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+.white-div{
+    background-color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+.top-div{
+    font-size: 12px;
+    font-weight: 400;
+}
+.icons{
+    margin-left: 35rem;
+}
+.text-border{
+    border-radius: 10px 0px 10px 10px;
+}
+.oposite-side-text{
+    border-radius: 0pc 10px 10px 10px;
+}
+.send-btn{
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 658px;
+}
+.input{
+    position: relative;
+}
+.send-btn button{
+    color: white;
+    background-color: #9155FD;
+    width: 120px;
+    height: 33px;
+    margin-left: 21px;
+    border-radius: 6px;
+}
+.second-section {
+    background-color: #f9f8f9;
+  }

@@ -1,0 +1,50 @@
+.gridFirst {
+  background-color: #ffffff;
+  width: 81%;
+  margin-left: 271px;
+  border-radius: 6px;
+  margin-top: 80px;
+}
+.gridFirst h1 {
+  margin: 20px;
+}
+.gridFirst .dropdown-menu {
+  margin-left: 20px;
+}
+.dropdown-menu {
+  width: 500px;
+  background-color: white;
+  border: 1px solid #3a3541;
+  height: 48px;
+  border-radius: 6px;
+}
+.gridSecond {
+  background-color: white;
+  width: 81%;
+  margin-left: 271px;
+  border-radius: 6px;
+}
+.dropdown {
+  width: 126px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid #3a3541;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+.invoice-button {
+  background-color: #9155fd;
+  color: white;
+  width: 118px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+.search {
+  width: 126px;
+  height: 40px;
+}
+::placeholder {
+  font-size: 14px;
+  margin-right: 3px;
+}

@@ -1,0 +1,36 @@
+.grid-first {
+  margin-left: 263px;
+  border-radius: 6px;
+  margin-top: 80px;
+}
+.compose-btn {
+  color: white;
+  background-color: #9155fd;
+  width: 260px;
+  height: 33px;
+  margin-left: 12px;
+  border-radius: 6px;
+  font-size: 16px;
+}
+.email-sidebar span {
+  color: #3a3541a2;
+  font-size: 14px;
+  font-weight: 400;
+}
+.label {
+  color: #3a3541a2;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 400;
+}
+hr {
+  margin-top: 13px;
+}
+.second-box{
+  background-color: #f9f8f9;
+}
+.message-text p{
+  color: #78747e;
+  font-size: 16px;
+  font-weight: 400;
+}
