@@ -7,7 +7,6 @@ const ChatPage = () => {
   return (
     <div>
       <Layout>
-        
         <Chatconversation />
       </Layout>
     </div>
