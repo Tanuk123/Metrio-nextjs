@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../../layout/layout'
-import { InvoiceList } from '@/pages/layout/invoice/invoice-list'
+import { InvoiceList } from '@/screens/layout/invoice/invoice-list'
 
 const InvoicePage = () => {
   return (

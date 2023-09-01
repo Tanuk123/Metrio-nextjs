@@ -1,4 +1,4 @@
-import { InvoiceEdit } from '@/pages/layout/invoice-edit/invoice-edit'
+import { InvoiceEdit } from '@/screens/layout/invoice-edit/invoice-edit'
 import Layout from '@/layout/layout'
 import React from 'react'
 

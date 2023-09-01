@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../../layout/layout'
-import { User } from '@/pages/layout/user/user'
+import { User } from '@/screens/layout/user/user'
 
 const UserPage = () => {
   return (

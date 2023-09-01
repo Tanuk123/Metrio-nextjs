@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../../../layout/layout";
-import { EmailOpen } from "@/pages/layout/emailopen/emailopen";
+import { EmailOpen } from "@/screens/layout/emailopen/emailopen";
 
 const Open = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../../layout/layout";
-import { Email } from "@/pages/layout/email/email";
+import { Email } from "@/screens/layout/email/email";
 
 const EmailPage = () => {
   return (
